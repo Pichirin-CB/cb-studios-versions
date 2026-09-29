@@ -1,0 +1,9 @@
+{
+    "resource": "cb-survival-loot",
+    "name": "CB Survival Loot",
+    "version": "1.0.0",
+    "summary": "Initial release of CB Survival Loot.",
+    "description": "First public release of the CB Survival Loot system, introducing configurable scavenging, randomized loot, searchable world props, generated stashes, and survival-focused loot interactions.",
+    "changelog": "https://docs.pichirincb.com/",
+    "store": "https://pichirin-cb.tebex.io/"
+}
