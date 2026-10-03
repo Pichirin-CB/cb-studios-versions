@@ -1,9 +1,9 @@
 {
-    "resource": "cb_localradio",
-    "name": "CB Local Radio",
-    "version": "1.0.0",
-    "summary": "Initial release of CB Local Radio.",
-    "description": "First public release of CB Local Radio, introducing a survival-focused radio system with antenna networks, signal coverage, frequency communication, antenna maintenance, repairs, and dynamic signal linking.",
-    "changelog": "https://docs.pichirincb.com/",
-    "store": "https://pichirin-cb.tebex.io/"
+  "resource": "cb_localradio",
+  "name": "CB Local Radio",
+  "version": "1.0.0",
+  "summary": "Initial release of CB Local Radio.",
+  "description": "First public release of CB Local Radio, introducing a survival-focused radio system with antenna networks, signal coverage, frequency communication, antenna maintenance, repairs, and dynamic signal linking.",
+  "changelog": "https://docs.pichirincb.com/",
+  "store": "https://pichirin-cb.tebex.io/"
 }

@@ -1,0 +1,9 @@
+{
+  "resource": "cb-backpacks",
+  "name": "CB Backpacks",
+  "version": "1.0.0",
+  "summary": "Initial release of CB Backpacks.",
+  "description": "First public release of CB Backpacks, providing a persistent backpack system with unique backpack IDs, briefcase items, multi-inventory bridge support, and multilingual locales.",
+  "changelog": "https://docs.pichirincb.com/",
+  "store": "https://pichirin-cb.tebex.io/"
+}
