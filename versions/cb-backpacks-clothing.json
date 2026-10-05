@@ -1,9 +1,9 @@
 {
-  "resource": "cb-backpacks-clothing",
-  "name": "CB Backpacks Clothing",
-  "version": "1.0.0",
-  "summary": "Initial release of CB Backpacks Clothing.",
-  "description": "First public release of the CB Backpacks Clothing addon, providing wearable backpack models for freemode characters through a dedicated FiveM clothing collection.",
+  "resource": "cb_heatmap",
+  "name": "CB Heatmap",
+  "version": "1.2.1",
+  "summary": "Privacy-first player activity heatmap for FiveM.",
+  "description": "CB Heatmap is a privacy-focused FiveM activity heatmap that uses OneSync player activity to generate an anonymous, organic heatmap over a GTA V map. Player coordinates are quantized and jittered before being used, and no exact player locations are persisted. The generated heatmap can be published to Discord through a single persistent message that is updated automatically.",
   "changelog": "https://docs.pichirincb.com/",
   "store": "https://pichirin-cb.tebex.io/"
 }
