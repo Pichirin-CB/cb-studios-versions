@@ -2,8 +2,8 @@
   "resource": "cb-backpacks",
   "name": "CB Backpacks",
   "version": "1.0.0",
-  "summary": "Initial release of CB Backpacks.",
-  "description": "First public release of CB Backpacks, providing a persistent backpack system with unique backpack IDs, briefcase items, multi-inventory bridge support, and multilingual locales.",
+  "summary": "Persistent backpack system for FiveM.",
+  "description": "CB Backpacks is a persistent backpack system for FiveM servers. Each backpack receives a unique ID and its own persistent inventory, allowing contents to remain associated with the same backpack across inventory movements, player reconnects, and server restarts. The system also supports equipped backpack persistence, physical backpack appearance, configurable backpack capacities, and ox_inventory integration.",
   "changelog": "https://docs.pichirincb.com/",
   "store": "https://pichirin-cb.tebex.io/"
 }
