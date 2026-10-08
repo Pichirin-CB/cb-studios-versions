@@ -1,0 +1,10 @@
+
+{
+  "resource": "cb-survivalextract",
+  "name": "CB Survival Extract",
+  "version": "1.1.1",
+  "summary": "Advanced helicopter extraction system for FiveM survival servers.",
+  "description": "CB Survival Extract is a configurable helicopter extraction system designed for FiveM survival and post-apocalyptic servers. It features route-based helicopter extractions, dynamic extraction costs, secure server-side payment validation, interactive NUI menus, configurable helicopter models, and optional SQL logging. The system supports ESX, QBCore, QBox, and Standalone environments, with multiple inventory integrations including ox_inventory, qs_inventory, core_inventory, tgiann-inventory, and ashenlabs_inventory. Additional features include customizable notifications, target or key-based interactions, Discord webhook logging, multilingual support, and modular integration hooks for developers.",
+  "changelog": "https://docs.pichirincb.com/#/changelog",
+  "store": "https://pichirin-cb.tebex.io/"
+}
